@@ -1,0 +1,1 @@
+{"251e3a5521a4e5b770aa5174417e1fa5":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"431b811d72ca3f2d","reportUrl":"https://barbosamp.github.io/selenium-web-e2e/3//#testresult/431b811d72ca3f2d","status":"passed","time":{"start":1747476072670,"stop":1747476094748,"duration":22078}}]}}
